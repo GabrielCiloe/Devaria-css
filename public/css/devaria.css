@@ -11,3 +11,7 @@ body {
     color: white;
 }
 
+.frame-devstar img {
+    width: 60%;
+    align-items: center;
+}

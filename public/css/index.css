@@ -1,14 +1,8 @@
-.color-red {
-    color: green;
-}
+/* Estilos de paginas index*/
 
-.color-red ul li a {
-    color: purple;
-}
+.cover-container figure img {
 
-a{
-    color: red;
-}
-#link-home{
-    color: black;
+    width: 100%;
+    
+
 }
