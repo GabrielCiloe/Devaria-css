@@ -1,1 +1,10 @@
 /*Responsavel pelo estilo do rodapé */
+
+footer {
+    text-align: center;
+    border-top: 1px solid #f0f5ff;
+    padding: 20px;
+    width: 75%;
+    margin: auto;
+    text-transform: lowercase;
+}
